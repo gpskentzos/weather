@@ -1,6 +1,6 @@
 # GRR-SEA Precipitation Comparison
 
-> A brief description of what the project does and its purpose.
+## Project Description
 
 This project compares the precipitation (rainfall only?) to determine the differences between Seattle and Grand Rapids. 
 
@@ -8,9 +8,9 @@ This project compares the precipitation (rainfall only?) to determine the differ
 
 Provide a short and concise overview of the project. Mention the problem it solves, the data used, and the key outcomes or findings.
 
-- **Objective:** Clearly state the main goal of the project.
-- **Domain:** (e.g., Healthcare, Finance, E-commerce, etc.)
-- **Key Techniques:** (e.g., Regression, Classification, Clustering, NLP, Time Series)
+- **Objective:** Compare precipitation between Seattle and Grand Rapids.
+- **Domain:** Weather, Climate
+- **Key Techniques:** 
 
 ---
 
@@ -28,21 +28,20 @@ Provide a short and concise overview of the project. Mention the problem it solv
 
 ## Data
 
-- **Source:** Link to the data source(s) 
-- **Description:** Brief overview of the dataset features, size, and format
-- **License:** (if applicable)
+- **Source:** https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND
+- **Description:** Precipitation data from NOAA in CSV format
+- **License:** NA
 
 ---
 
 ## Analysis
 
-Describe the notebooks and/or scripts used to perform the analysis. Specify the order in which the code should be run to reproduce the results.
+
 
 ---
 
 ## Results
 
-Include a short discussion of the findings and what they imply.
 
 ---
 
