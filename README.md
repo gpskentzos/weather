@@ -60,10 +60,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-Data sets: 
-- https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND
+- Data sets: 
+  - https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND
 
 - Tutorials or papers referenced
 
 - Inspiration or collaborators
-Seattle University DATA 5100 Course
+	- Seattle University DATA 5100 Course
