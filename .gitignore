@@ -23,3 +23,10 @@ Icon[]
 Network Trash Folder
 Temporary Items
 .apdisk
+/.idea
+/.ipynb_checkpoints
+/code/.ipynb_checkpoints
+/code/average_monthly_precipitation_barchart.png
+/code/clean_seattle_grandrapids_weather_backup.csv
+/code/monthly_yearly_precipitation_comparison.png
+/Untitled.ipynb
